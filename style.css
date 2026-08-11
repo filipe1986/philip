@@ -26,12 +26,14 @@ body {
     font-size: 1.55rem;
     color: #0d2b4e;
     font-weight: 700;
+    text-align: center;
 }
 
 .header-text p {
     margin: 0.25rem 0 0;
     font-size: 0.95rem;
     color: #555;
+    text-align: center;
 }
 
 .logo {
