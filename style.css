@@ -19,32 +19,26 @@ body {
     border-radius: 12px;
     margin-bottom: 2.5rem;
     box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    padding: 1rem 1.5rem;
 }
 
 .header-text h1 {
-    flex: 1;
     margin: 0;
     font-size: 1.55rem;
-    color: #0d2b4e;
-    font-weight: 700;
-    text-align: center;
+    color: #0d2b4e
 }
 
 .header-text p {
     margin: 0.25rem 0 0;
     font-size: 0.95rem;
     color: #555;
-    text-align: center;
 }
 
 .logo {
     height: 72px;
     width: auto;
     object-fit: contain;
-}
-
-header h1 {
-    margin-bottom: 0.5rem;
+    margin-left: 1rem;
 }
 
 section {
