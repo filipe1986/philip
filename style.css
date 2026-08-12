@@ -1,4 +1,4 @@
-/* Global reset & Typography */
+/* Global reset & Typography 
 
 body {
     font-family: system-ui, -apple-system, sans-serif;
@@ -9,6 +9,8 @@ body {
     color: #1a1a1a;
     background-color: #f8f9fa;
 }
+    */
+    
 /* Header box */
 .header-box {
     display: flex;
